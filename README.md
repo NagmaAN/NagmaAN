@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NagmaAN
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Full stack MERN developer.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/nagmaan/
 
 <!---
